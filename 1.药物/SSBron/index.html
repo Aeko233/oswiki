@@ -1,0 +1,1841 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://mydomain.org/OS-Suki/1.%E8%8D%AF%E7%89%A9/SSBron/">
+      
+      
+        <link rel="prev" href="../PEA/">
+      
+      
+        <link rel="next" href="../Scopolamine/">
+      
+      
+      <link rel="icon" href="../../images/favicon.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>SSBron - OverSpeed Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="OverSpeed Wiki" class="md-header__button md-logo" aria-label="OverSpeed Wiki" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            OverSpeed Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              SSBron
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Aeko233/oswiki" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="OverSpeed Wiki" class="md-nav__button md-logo" aria-label="OverSpeed Wiki" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    OverSpeed Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Aeko233/oswiki" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    欢迎来到 OverSpeed Suki
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    1.药物
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            1.药物
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../1.index/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    索引
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../2.warn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    警戒
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../5-HTP/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    5-羟色氨酸
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CPZ/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    氯丙嗪
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ChEI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ChEI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cocaine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    可卡因
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Compound-Preparation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Compound Preparation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dextromethorphan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dextromethorphan
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../E2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    雌二醇
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Guaifenesin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Guaifenesin
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Haloperidol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    氟哌啶醇
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../LSD/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    麦角酸二乙酰胺
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Levodopa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Levodopa
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../PEA/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    PEA
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    SSBron
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    SSBron
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      概述
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      ！药物警戒！
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wikipediaiiiiiiiv" class="md-nav__link">
+    <span class="md-ellipsis">
+      作用机理^[wikipedia：Ⅰ、Ⅱ、Ⅲ、Ⅳ]
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="作用机理^[wikipedia：Ⅰ、Ⅱ、Ⅲ、Ⅳ]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      二氢可待因
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      甲麻黄碱
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      氯苯那敏
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      咖啡因
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      药物作用
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="药物作用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psywiki" class="md-nav__link">
+    <span class="md-ellipsis">
+      二氢可待因^[psywiki]
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="二氢可待因^[psywiki]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ki" class="md-nav__link">
+    <span class="md-ellipsis">
+      阿片受体结合亲和力（Ki）对比
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Scopolamine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    东莨菪碱
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theophylline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Theophylline
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../2.%E6%8A%A5%E5%91%8A/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    2.报告
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../3.%E8%8D%AF%E6%95%88/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    3.药效
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../4.%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%A6/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    4.精神病学
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../5.%E4%B9%A6%E7%B1%8D/list/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    5.书籍
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      概述
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      ！药物警戒！
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wikipediaiiiiiiiv" class="md-nav__link">
+    <span class="md-ellipsis">
+      作用机理^[wikipedia：Ⅰ、Ⅱ、Ⅲ、Ⅳ]
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="作用机理^[wikipedia：Ⅰ、Ⅱ、Ⅲ、Ⅳ]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      二氢可待因
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      甲麻黄碱
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      氯苯那敏
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      咖啡因
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      药物作用
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="药物作用">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psywiki" class="md-nav__link">
+    <span class="md-ellipsis">
+      二氢可待因^[psywiki]
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="二氢可待因^[psywiki]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ki" class="md-nav__link">
+    <span class="md-ellipsis">
+      阿片受体结合亲和力（Ki）对比
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>SSBron</h1>
+
+<h2 id="_1">概述</h2>
+<p>白兔Bron是一款日本生产的复方止咳药，是日文版《<a href="https://zh.wikipedia.org/zh-cn/%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96">主播女孩重度依赖</a>》中止咳片的原型（英文版则为右美沙芬）。
+「长得不能说是十分相似，也可以说是一模一样」
+<img alt="白兔bron一模一样.png" src="/imgs/白兔bron一模一样.png" /></p>
+<p>每片白兔Bron含有2.5mg磷酸二氢可待因（Dihydrocodeine/ジヒドロコデイン）、4.17mg盐酸甲麻黄碱（N-Methylephedrine/メチルエフェドリン）、0.67mg马来酸氯苯那敏（Chlorphenamine/クロルフェニラミン）、7.5mg无水咖啡因（Caffeine/カフェイン）。</p>
+<h2 id="_2"><a href="https://overspeed.wiki/%E8%8D%AF%E7%89%A9%E8%AD%A6%E6%88%92/">！药物警戒！</a></h2>
+<ul>
+<li>白兔Bron虽暂时未进入警戒范围，但仍需注意其各种成分副作用，如二氢可待因和咖啡因的成瘾性、二氢可待因的<a href="https://overspeed.wiki/drug_effect/%E5%91%BC%E5%90%B8%E6%8A%91%E5%88%B6/">呼吸抑制</a>、甲麻黄碱的<a href="https://overspeed.wiki/report/RP022/">麻黄碱类所致腹痛</a>、咖啡因的增强焦虑心悸、氯苯那敏的SRI撤药反应等。</li>
+</ul>
+<h2 id="wikipediaiiiiiiiv">作用机理^[wikipedia：<a href="https://en.wikipedia.org/wiki/Dihydrocodeine">Ⅰ</a>、<a href="https://en.wikipedia.org/wiki/N-Methylephedrine">Ⅱ</a>、<a href="https://en.wikipedia.org/wiki/Chlorphenamine#Pharmacodynamics">Ⅲ</a>、<a href="https://en.wikipedia.org/wiki/Caffeine#Pharmacodynamics">Ⅳ</a>]</h2>
+<h3 id="_3">二氢可待因</h3>
+<ul>
+<li>激动受体：μ-阿片受体/Mu-阿片受体</li>
+</ul>
+<h3 id="_4">甲麻黄碱</h3>
+<ul>
+<li>激动受体：肾上腺素受体（非选择性）</li>
+</ul>
+<h3 id="_5">氯苯那敏</h3>
+<ul>
+<li>反向激动：组胺受体H1</li>
+<li>抑制再摄取：血清素</li>
+<li>抑制再摄取：多巴胺（微弱）</li>
+<li>抑制再摄取：去甲肾上腺素（微弱）</li>
+<li>拮抗受体：毒蕈碱型乙酰胆碱受体/mAChRs M1、M2、M3、M4、M5（极微弱）</li>
+<li>结合受体：Sigma1/σ1（可能为拮抗剂）</li>
+<li>结合受体：血清素受体5-HT2A、5-HT2C</li>
+</ul>
+<h3 id="_6">咖啡因</h3>
+<ul>
+<li>拮抗受体：腺苷受体A1、A2A、A2B、A3（A2A最强）</li>
+<li>拮抗受体：三磷酸肌醇受体1/InsP3R1</li>
+<li>激动受体：兰诺定受体/RYR RYR1、RYR2、RYR3（电压非依赖性）</li>
+<li>拮抗受体：甘氨酸受体/GlyR（竞争性）</li>
+<li>抑制酶活性：磷酸二酯酶/PDE（竞争性非选择性）</li>
+<li>激活酶：蛋白激酶A/PKA</li>
+<li>抑制：TNF-α</li>
+<li>抑制合成：白三烯</li>
+<li>抑制酶活性：乙酰胆碱酯酶/AChE</li>
+</ul>
+<h2 id="_7">药物作用</h2>
+<ul>
+<li>二氢可待因不是可待因，甲麻黄碱也不是麻黄碱。</li>
+</ul>
+<h3 id="psywiki">二氢可待因^[<a href="https://psychonautwiki.org/wiki/Dihydrocodeine#Subjective_effects">psywiki</a>]</h3>
+<ul>
+<li>主要的作用：镇痛、欣快感、镇静、止咳、呼吸抑制、抗焦虑、梦境增强、复视、便秘、排尿困难、瞳孔收缩、性欲减退、食欲抑制、性高潮抑制</li>
+<li>与可待因相比，二氢可待因通常被认为具有<strong>更强烈的欣快感</strong>和<strong>更少的瘙痒感</strong>。</li>
+<li>虽不同于可待因，二氢可待因仍然为弱阿片类药品，具有轻微的阿片类麻醉，<strong>滥用有成瘾的可能性</strong>。</li>
+<li>【2024年8月13日更新】由于本条目浏览量较高，主编不得不强调一点：尽管二氢可待因本身是阿片类受体的弱配体，但其主要代谢物二氢吗啡（Dihydromorphine）及其少量代谢物二氢吗啡-6-葡萄糖苷酸（Dihydromorphine-6-glucuronide）表现出更强的阿片受体激动作用。因此，<strong>二氢可待因的实际阿片类药效（阿片类麻醉、阿片类成瘾等）高于下表中的二氢可待因数据。</strong></li>
+</ul>
+<h4 id="ki">阿片受体结合亲和力（Ki）对比</h4>
+<table>
+<thead>
+<tr>
+<th>受体</th>
+<th>二氢可待因</th>
+<th>吗啡^[<a href="https://psychonautwiki.org/wiki/Morphine#Binding_affinities_of_morphine_.28Ki.29.5B27.5D">psywiki</a>]</th>
+<th>1mg二氢可待因作用强度相当于xmg吗啡</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mu-阿片受体</td>
+<td>325nM</td>
+<td>4.9nM</td>
+<td>0.015</td>
+</tr>
+<tr>
+<td>Kappa-阿片受体</td>
+<td>14242nM</td>
+<td>206nM</td>
+<td>0.014</td>
+</tr>
+<tr>
+<td>Delta-阿片受体</td>
+<td>5905nM</td>
+<td>273nM</td>
+<td>0.046</td>
+</tr>
+</tbody>
+</table>
+<p>【2024年8月30日补充表】</p>
+<table>
+<thead>
+<tr>
+<th>受体</th>
+<th>二氢可待因</th>
+<th>可待因^[<a href="https://psychonautwiki.org/wiki/Codeine#Binding_affinities_.28Ki.29.5B9.5D">psywiki</a>]</th>
+<th>1mg二氢可待因作用强度相当于xmg可待因</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mu-阿片受体</td>
+<td>325nM</td>
+<td>589nM</td>
+<td>1.81</td>
+</tr>
+<tr>
+<td>Kappa-阿片受体</td>
+<td>14242nM</td>
+<td>18061nM</td>
+<td>1.27</td>
+</tr>
+<tr>
+<td>Delta-阿片受体</td>
+<td>5905nM</td>
+<td>11442nM</td>
+<td>1.94</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>受体</th>
+<th>二氢吗啡^[<a href="https://en.wikipedia.org/wiki/Dihydromorphine#Pharmacology">wikipedia</a>]</th>
+<th>吗啡</th>
+<th>1mg二氢吗啡作用强度相当于xmg吗啡</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mu-阿片受体</td>
+<td>2.5nM</td>
+<td>4.9nM</td>
+<td>2.13</td>
+</tr>
+<tr>
+<td>Kappa-阿片受体</td>
+<td>223nM</td>
+<td>206nM</td>
+<td>0.924</td>
+</tr>
+<tr>
+<td>Delta-阿片受体</td>
+<td>137nM</td>
+<td>273nM</td>
+<td>1.99</td>
+</tr>
+<tr>
+<td>- 注：作用强度与Ki数值成反比</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 由表可知，二氢可待因、可待因分别通过相同的代谢途径代谢为二氢吗啡、吗啡，而二氢可待因、二氢吗啡的阿片类作用又分别强于可待因、吗啡，<strong>因此二氢可待因的阿片类作用强于可待因（接近2倍）</strong>。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 甲麻黄碱</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 激动肾上腺素受体会刺激交感神经系统（SNS），使瞳孔扩大、心率加快、调动能量，并将血液从非必要器官转移到骨骼肌。这些影响结合在一起往往会暂时提高身体机能。^[<a href="https://en.wikipedia.org/wiki/Adrenergic_receptor">wikipedia</a>]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 氯苯那敏</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 氯苯那敏即扑尔敏，是抗组胺药，用于抗过敏，过量可能嗜睡。但是白兔Bron的氯苯那敏较少（每片0.67mg），完全可以被抗困意且含量较高的咖啡因（每片7.5mg）成分反制。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 另外，氯苯那敏是SRI和微弱的NDRI，<strong>可能加强欣快感</strong>。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 咖啡因^[<a href="https://psychonautwiki.org/wiki/Caffeine#Subjective_effects">psywiki</a>]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 主要的作用：<strong>身体欣快感</strong>、食欲抑制、支气管扩张、尿频、抗头痛（低剂量）、头痛（高剂量）、血压升高、心率加快、出汗增多、恶心、耐力增强、触觉增强、分析能力增强、焦虑、注意力增强、性欲增强、音乐欣赏能力增强、易怒、记忆力增强、动力增强、加速思维、抗困意、成瘾性（中低）</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因的作用总体与<a href="/drug/%E8%8C%B6%E7%A2%B1%E7%B1%BB%E8%8D%AF%E7%89%A9/">茶碱类药物</a>类似。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 部分作用可被反制，比如咖啡因过度兴奋导致焦虑，可被镇静、抗焦虑的二氢可待因成分反制。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 部分资料认为，咖啡因更适合e人，不适合i人。^[<a href="https://www.bilibili.com/video/BV16E421L72s/">bilibili</a>]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 综合</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 白兔Bron可产生欣快感，兴奋和镇静则取决于个体对四种成分的敏感性强弱。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## 剂量 &amp; 期间^[psywiki：<a href="https://psychonautwiki.org/wiki/Dihydrocodeine">Ⅰ</a>、<a href="https://psychonautwiki.org/wiki/Caffeine">Ⅱ</a>]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 二氢可待因</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 阈值：20mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 轻度剂量：50-100mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 中度剂量：100-150mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 高度剂量：150-200mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 重度剂量：200mg+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 起效时：30min-45min</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 总效时：3h-4h</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 咖啡因（口服）</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 阈值：10mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 轻度剂量：20-50mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 中度剂量：50-150mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 高度剂量：150-500mg</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 重度剂量：500mg+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 起效时：5min-10min</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 来效时：10min-60min</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 顶峰时：1h-2h</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 退效时：6h-10h</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 总效时：2h-5h</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 后续影响：2h-4h</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 综合</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 白兔Bron：一次21-84t，推荐剂量42t。另外，<a href="/drug/%E5%B8%B8%E8%AF%86/">常识6</a>请不要忘记。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## 相互作用^[用药助手app]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 二氢可待因</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 <a href="/t/单胺氧化酶抑制剂">单胺氧化酶抑制剂</a>（司来吉兰、<a href="/drug/RSGL">雷沙吉兰</a>等）合用可能导致昏迷致死。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 <a href="/drug/BZDs">BZD类</a>（阿普唑仑、奥沙西泮、艾司唑仑、地西泮等）、巴比妥类（苯巴比妥、戊巴比妥、异戊巴比妥等）、<a href="/drug/DXM#%E9%BA%BB%E9%86%89%E5%89%82%E3%80%90%E9%AB%98%E5%8D%B1%E3%80%91">麻醉剂</a>（其他阿片类如曲马多、氟烷类、<a href="/drug/NMDA%E6%8A%97%E6%8A%91%E9%83%81/">氯胺酮</a>等）、乙醇 合用可能导致毒性增加。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 <a href="/drug/DXM/">右美沙芬</a> 合用可能导致呼吸困难、心脏问题和肝毒性。^[<a href="https://psychonautwiki.org/wiki/Dihydrocodeine#Dangerous_interactions">psywiki</a>]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 华法林 合用可能增加出血风险。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 <a href="/Drugs/谵妄剂">抗胆碱药</a>（阿托品、山莨菪碱、苯海拉明、<a href="/drug/%E8%8C%B6%E7%A2%B1%E7%B1%BB%E8%8D%AF%E7%89%A9#%E8%8C%B6%E8%8B%AF%E6%B5%B7%E6%98%8E%EF%BC%88Dimenhydrinate%EF%BC%89">茶苯海明</a>等） 合用增强抗胆碱作用。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 <a href="/drug/QTP/">狗屎</a> 合用加重患者病情。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 二氢可待因 与 西地那非 合用可能导致阴茎异常勃起。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 甲麻黄碱</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 甲麻黄碱 与 乙醇 合用可能导致嗜睡。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 甲麻黄碱 与 <a href="/drug/ATX/">托莫西汀</a>、以及<a href="/t/单胺氧化酶抑制剂">单胺氧化酶抑制剂</a>（司来吉兰、利奈唑胺、吗氯贝胺等） 合用可能导致高血压危象。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 甲麻黄碱 与 左甲状腺素 合用会互相增强作用。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 甲麻黄碱 与 <a href="/drug/%E8%8C%B6%E7%A2%B1%E7%B1%BB%E8%8D%AF%E7%89%A9/">茶碱类</a>（胆茶碱等） 合用可能导致心律失常。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 氯苯那敏</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 氯苯那敏 与 乙醇、苯妥英、<a href="/drug/思诺思">唑吡坦</a>、<a href="/t/单胺氧化酶抑制剂">单胺氧化酶抑制剂</a>（<a href="/drug/TCP">反苯环丙胺</a>、苯乙肼、异卡波肼等） 合用可能导致毒性增加。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 氯苯那敏 与 <a href="/drug/ATD">金刚烷胺</a> 合用增强抗胆碱作用、增强精神紊乱、幻觉和噩梦。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 氯苯那敏 与 <a href="/drug/BZDs">BZD类</a>（阿普唑仑、奥沙西泮、艾司唑仑、地西泮、氟硝西泮等） 合用可能导致镇静增强。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 咖啡因</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 与 氟伏沙明、<a href="/drug/CBD/">大麻二酚</a>、避孕药（炔雌醇、左炔诺孕酮<a href="/drug/E2/">等</a>）、<a href="/drug/%E8%8C%B6%E7%A2%B1%E7%B1%BB%E8%8D%AF%E7%89%A9/">茶碱类</a>（茶碱、氨茶碱、胆茶碱等）、喹诺酮类（环丙沙星、诺氟沙星、洛美沙星、氧氟沙星等） 合用减慢咖啡因代谢，增加咖啡因血药浓度。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 与 苯妥英 合用促进咖啡因代谢，降低咖啡因血药浓度。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 与 华法林 合用导致华法林活性增加。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 与 <a href="/drug/QTP/">狗屎</a> 合用加重患者病情。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 与 <a href="/drug/ATD">金刚烷胺</a>、<a href="/drug/哌甲酯">哌甲酯</a> 合用互相增强作用，可导致激越、易怒、失眠，严重者可引起惊厥、心律失常等。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 咖啡因 减少 Ca^2+^ 吸收，并增加 Ca^2+^ 排泄。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>### 综合</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 白兔Bron应避免与上述药物合用，尤其不要饮酒，也不要与右美沙芬、金刚烷胺同时od。并且需要注意日常用药是否有干扰，比如BZD类、唑吡坦、MAOI、抗ADHD药（哌甲酯、托莫西汀）、狗屎、茶碱类等。</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <img alt="白兔.jpg" src="/imgs/白兔.jpg" /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## 对话区</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- 【社群对话1】：第一次吃42t白兔bron无效最可能的原因：最近一周内使用了其他药物（问过十几个都是这样，而那些近期没有服用药物/od的则无一例外体验到了强烈的欣快，该结论不保证100%准确，但可能具有参考意义）</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>## 相关报告</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP041/">报告41</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP044/">报告44</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP052/">报告52</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP050/">报告50</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP099/">报告99</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="https://overspeed.wiki/report/RP124/">报告124</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>- <a href="/report/RP157">报告157</a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight", "navigation.instant", "navigation.instant.progress", "navigation.prune", "navigation.tracking", "navigation.top", "toc.follow"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+    
+  </body>
+</html>
