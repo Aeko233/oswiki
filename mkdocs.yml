@@ -2,6 +2,7 @@ site_name: OverSpeed Wiki
 site_url: https://mydomain.org/OS-Suki
 theme:
   name: material
+  custom_dir: overrides
   palette:
 
     # Palette toggle for light mode
@@ -32,3 +33,6 @@ theme:
   favicon: images/favicon.svg
 plugins:
   - search
+  - social:
+      enabled: !ENV [CI, false]
+repo_url: https://github.com/Aeko233/oswiki
