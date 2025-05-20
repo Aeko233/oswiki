@@ -33,6 +33,4 @@ theme:
   favicon: images/favicon.svg
 plugins:
   - search
-  - social:
-      enabled: !ENV [CI, false]
 repo_url: https://github.com/Aeko233/oswiki
