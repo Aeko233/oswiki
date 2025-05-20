@@ -1,5 +1,6 @@
 site_name: OverSpeed Wiki
 site_url: https://mydomain.org/OS-Suki
+repo_url: https://github.com/Aeko233/oswiki
 theme:
   name: material
   custom_dir: overrides
@@ -33,4 +34,4 @@ theme:
   favicon: images/favicon.svg
 plugins:
   - search
-repo_url: https://github.com/Aeko233/oswiki
+  - meta
