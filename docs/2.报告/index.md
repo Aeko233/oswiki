@@ -1,0 +1,236 @@
+﻿# 说明
+报告标题说明：若报告相关药物较少则标明剂量，若相关药物较多或剂量不明则省去剂量。剂量单位，单方制剂统一用毫克（mg），复方制剂、中成药用片数/粒数（t）。
+
+## RP0
+- [报告0 【已停更】报告药物统计](https://overspeed.wiki/report/RP000/)：来看看哪种药物最受欢迎吧
+- [报告X 【正在连载】【已更新至RP219】全报告药物统计](https://overspeed.wiki/report/RPX/): 手打的，累死布洛芬了喵qwq
+## RP1-2
+- [报告1 金刚乙胺900mg](https://overspeed.wiki/report/RP001/)：主编，Bad trip
+- [报告2 普萘洛尔1000mg](https://overspeed.wiki/report/RP002/)：纯粹胡搞
+## RP3-9
+- [报告3 加巴喷丁1500mg](https://overspeed.wiki/report/RP003/)：主编，低配普瑞巴林实锤
+- **[报告4 安非他酮1200mg](https://overspeed.wiki/report/RP004/)：在你误以为是good trip的时候突然给你呕吐癫痫击杀**
+- [报告5 奈福泮960mg](https://overspeed.wiki/report/RP005/)：二级警戒危险药物奈福泮，算是相对good的trip了
+- [报告6 司来吉兰5mg+苯乙胺](https://overspeed.wiki/report/RP006/)：冰的模拟玩完就萎了
+- [报告7 佐匹克隆+艾司唑仑+氯硝西泮](https://overspeed.wiki/report/RP007/)：安眠药也是兴奋剂
+- [报告8 普瑞巴林600mg+右美沙芬原粉300mg](https://overspeed.wiki/report/RP008/)：只记录了一半的烂尾报告
+- [报告9 普瑞巴林+镁+茶氨酸+咖啡因+维生素+狗屎](https://overspeed.wiki/report/RP009/)：乱七八糟的杂药
+## RP10-29
+- **[报告10 右美沙芬135mg+安非他酮300mg](https://overspeed.wiki/report/RP010/)：主编，自制Auvelity得不偿失**
+- **[报告11 金刚烷胺1200mg](https://overspeed.wiki/report/RP011/)：名副其实的畜生药**
+- [报告12 羟考酮30mg](https://overspeed.wiki/report/RP012/)：不要命可以玩
+- [报告13 兴奋剂6-APB用普瑞巴林+劳拉西泮下机](https://overspeed.wiki/report/RP013/)：兴奋剂过度加重ADHD
+- **[报告14 石杉碱甲0.5mg](https://overspeed.wiki/report/RP014/)：一次bad trip未引起社群重视，导致后续悲剧**
+- **[报告15 利培酮3mg/多奈哌齐20mg（两次）](https://overspeed.wiki/report/RP015/)：什么是畜生中的畜生**
+- [报告16 右美沙芬720mg](https://overspeed.wiki/report/RP016/)：疯狂呕吐10次
+- [报告17 曲唑酮100mg](https://overspeed.wiki/report/RP017/)：晕晕晕晕晕倒
+- [报告18 小晚70000000+mg](https://overspeed.wiki/report/RP018/)：如你所愿写入报告
+- [报告19 氯硝西泮+艾司唑仑+镁+茶氨酸+咖啡因](https://overspeed.wiki/report/RP019/)：高剂量暴力反解离也会倒
+- **[报告20 右美沙芬135mg+安非他酮300mg+日常用药下机](https://overspeed.wiki/report/RP020/)：又一个自制Auvelity的**
+- **[报告21 右美沙芬780mg+金刚烷胺1200mg](https://overspeed.wiki/report/RP021/)：进医院昏迷一天**
+- [报告22 哮喘片24t](https://overspeed.wiki/report/RP022/)：中成药入列，但似乎并不是good trip
+- [报告23 右美沙芬510mg+托吡酯](https://overspeed.wiki/report/RP023/)：报告19的前情提要
+- [报告24 异丙嗪50mg+普瑞巴林450mg+阿普唑仑0.4mg](https://overspeed.wiki/report/RP024/)：2次解离1次镇静
+- [报告25 异丙嗪+托吡酯+乙醇+普瑞巴林+右美沙芬](https://overspeed.wiki/report/RP025/)：3次解离
+- [报告26 艾司唑仑+茶氨酸+氯硝西泮+普瑞巴林+异丙嗪](https://overspeed.wiki/report/RP026/)：乱七八糟的杂药
+- [报告27 奈福泮900mg+异丙嗪50mg+可乐定0.6mg](https://overspeed.wiki/report/RP027/)：二级警戒危险药物奈福泮数心跳
+- [报告28 卡巴拉汀12mg](https://overspeed.wiki/report/RP028/)：od妹都特有的就算知道会死也要o的执着
+- **[报告29 奈福泮+异丙嗪+可乐定+氯硝西泮](https://overspeed.wiki/report/RP029/)：二级警戒危险药物奈福泮数心跳×2**
+## RP30-RP79
+- [报告30 氨茶碱400mg](https://overspeed.wiki/report/RP030/)：主编，令人尴尬的「兴奋剂」
+- [报告31 右美沙芬420mg+普瑞巴林1200mg+速释兴奋剂36mg](https://overspeed.wiki/report/RP031/)：崩溃呕吐昏倒
+- [报告32 右美沙芬1260mg](https://overspeed.wiki/report/RP032/)：od文化输出到台湾
+- [报告33 普瑞巴林1200mg](https://overspeed.wiki/report/RP033/)：手抖抖抖抖抖
+- **[报告34 喹硫平(狗屎)3200mg+生可乐](https://overspeed.wiki/report/RP034/): 额啊, 喹硫平强制关机真难受**
+- [报告35 普瑞巴林+金刚烷胺+司来吉兰+苯乙胺](https://overspeed.wiki/report/RP035/)：wiki主亲身试药，普瑞烷胺合用
+- [报告36 普瑞巴林750mg+金刚烷胺700mg](https://overspeed.wiki/report/RP036/)：普瑞烷胺合用×2
+- [报告37 IPPH20mg](https://overspeed.wiki/report/RP037/)：哌甲酯的类似物
+- **[报告38 右美沙芬180mg+普萘洛尔230mg](https://overspeed.wiki/report/RP038/)：od文化输出到香港，因解离感知不到心跳变化**
+- [报告39 异丙嗪+普瑞巴林+唑吡坦](https://overspeed.wiki/report/RP039/)：解离、解离、解离、镇静安眠
+- [报告40 唑吡坦+普瑞巴林+巴氯芬+尼古丁](https://overspeed.wiki/report/RP040/)：和猫说上话了
+- [报告41 白兔Bron42t](https://overspeed.wiki/report/RP041/)：药物诱导的BPD爆发
+- [报告42 佐匹克隆+氯硝西泮+普瑞巴林](https://overspeed.wiki/report/RP042/)：吃完镇静剂注意别吹空调着凉了
+- [报告43 普瑞巴林+维生素+异烟肼+苯乙胺+仙人掌+司来吉兰](https://overspeed.wiki/report/RP043/)：od异烟肼自讨没趣
+- [报告44 白兔Bron84t](https://overspeed.wiki/report/RP044/)：温和的幸福感
+- **[报告45 右美沙芬180mg](https://overspeed.wiki/report/RP045/)：总免不了一吐**
+- [报告46 右美沙芬540mg](https://overspeed.wiki/report/RP046/)：烂尾报告
+- [报告47 愈美片48t+氟西汀](https://overspeed.wiki/report/RP047/)：期待的欣快感没有出现
+- [报告48 喷托维林+佐匹克隆+右美沙芬+金刚烷胺+喹硫平/狗屎](https://overspeed.wiki/report/RP048/)：命大玩火不焚
+- **[报告49 巴氯芬10mg+普瑞巴林600mg+唑吡坦10mg](https://overspeed.wiki/report/RP049/)：不是谁都能和猫说上话**
+- [报告50 司来吉兰5mg+白兔Bron20t](https://overspeed.wiki/report/RP050/)：极好的一次体验
+- [报告51 哌甲酯36mg+乙醇+咖啡](https://overspeed.wiki/report/RP051/)：医学剂量哌甲酯
+- [报告52 白兔Bron42t+尼古丁](https://overspeed.wiki/report/RP052/)：说了些纯胡言乱语没有逻辑性
+- **[报告53 普瑞巴林4800mg](https://overspeed.wiki/report/RP053/)：又双叒叕一个被药物送进医院的**
+- **[报告54 普瑞巴林2400mg/右美沙芬720mg（两次）](https://overspeed.wiki/report/RP054/)：失效的普瑞巴林，呼吸抑制到濒死的右美沙芬**
+- [报告55 普瑞巴林1200mg+金刚烷胺1200mg](https://overspeed.wiki/report/RP055/)：普瑞烷胺合用×3
+- [报告56 氯硝西泮40mg](https://overspeed.wiki/report/RP056/)：舒服的洗胃
+- [报告57 普瑞巴林750mg+奈福泮160mg](https://overspeed.wiki/report/RP057/)：接下来一周都承受着副作用的拷打
+- [报告58 普瑞巴林2400mg+金刚烷胺1000+mg+骆驼蓬子3000mg+相思树皮+可待因+苯海索+赛庚啶](https://overspeed.wiki/report/RP058/)：并不意外的入院
+- [报告59 唑吡坦10mg+普瑞巴林300mg](https://overspeed.wiki/report/RP059/)：内部幻觉
+- [报告60 右美沙芬720mg+氟西汀2t](https://overspeed.wiki/report/RP060/)：o完之后几天每天都头晕心慌耳鸣一直感觉天旋地转
+- [报告61 右美沙芬360mg](https://overspeed.wiki/report/RP061/)：为什么不是枫丹人
+- **[报告62 普瑞巴林900mg+金刚烷胺1000mg](https://overspeed.wiki/report/RP062/)：普瑞烷胺合用×4，住院一个月**
+- [报告63 右美沙芬420mg+白兔Eve](https://overspeed.wiki/report/RP063/)：自己觉得不对劲打了120
+- [报告64 氨酚待因+咖啡+苏糖酸镁](https://overspeed.wiki/report/RP064/)：显著的解离，不显著的反解离
+- [报告65 舍曲林200mg](https://overspeed.wiki/report/RP065/)：SSRI变致幻剂
+- [报告66 氟伏沙明+阿戈美拉汀+愈美（？）](https://overspeed.wiki/report/RP066/)：记录时断片导致的
+- **[报告67 右美沙芬180mg+苯海拉明150mg](https://overspeed.wiki/report/RP067/)：明显的心脏副作用**
+- [报告68 双氢麦角毒碱5mg+维生素](https://overspeed.wiki/report/RP068/)：普普通通的血清素幻觉而已
+- [报告69 普瑞巴林600mg](https://overspeed.wiki/report/RP069/)：重点是站长好可爱好可爱
+- [报告70 美金刚120mg+右美沙芬360mg+普瑞600mg](https://overspeed.wiki/report/RP070/)：总之还是不太建议别人学
+- [报告71 巴氯芬20mg+普瑞巴林750mg+唑吡坦20mg](https://overspeed.wiki/report/RP071/)：体验负面大于正面
+- [报告72 托莫西汀100mg【天方】](https://overspeed.wiki/report/RP072/)：最大医学剂量托莫西汀，就一个字爽
+- [报告73 利妥昔单抗+环磷酰胺+阿糖胞苷+依托泊苷+碳酸氢盐+博维赫+托烷司琼+氨磷汀+托拉塞米+血小板+静脉营养液+干细胞培养液+乌苯美司+埃索美拉唑+伏立康唑+阿昔洛韦+阿法骨化醇](https://overspeed.wiki/report/RP073/)：抗真菌药变致幻剂
+- [报告74 普瑞巴林2400mg+螺内酯60mg](https://overspeed.wiki/report/RP074/)：被强行送进医院
+- [报告75 右美沙芬2550mg+度洛西汀20mg+哌甲酯100mg](https://overspeed.wiki/report/RP075/)：自杀失败
+- [报告76 骆驼蓬子3600mg+相思树皮27000mg+姜半夏5000mg+黄芪5000mg](https://overspeed.wiki/report/RP076/)：这是我永远不想回忆的事
+- [报告77 氯硝西泮+佐匹克隆+唑吡坦+普瑞巴林+吡拉西坦+石杉碱甲+愈美片+金刚烷胺](https://overspeed.wiki/report/RP077/)：几次杂报告的合集
+- [报告78 右美沙芬](https://overspeed.wiki/report/RP078/)：woc有瘾，好难受
+- [报告79 加巴喷丁500mg](https://overspeed.wiki/report/RP079/)：安眠药
+## RP80-RP113
+- [报告80 托莫西汀60mg+苏糖酸镁500mg+维生素](https://overspeed.wiki/report/RP080/)：主编，托莫西汀加镁实验Day1
+- [报告81 托莫西汀70mg+苏糖酸镁500mg](https://overspeed.wiki/report/RP081/)：主编，托莫西汀加镁实验Day2
+- [报告82 托莫西汀80mg+苏糖酸镁500mg](https://overspeed.wiki/report/RP082/)：主编，托莫西汀加镁实验Day3
+- [报告83 托莫西汀80mg+苏糖酸镁910mg](https://overspeed.wiki/report/RP083/)：主编，托莫西汀加镁实验Day4
+- [报告84 托莫西汀70mg+苏糖酸镁1000mg+茶苯海明50mg](https://overspeed.wiki/report/RP084/)：主编，托莫西汀加镁实验Day5
+- [报告85 托莫西汀70mg+苏糖酸镁1000mg+舍曲林25mg](https://overspeed.wiki/report/RP085/)：主编，托莫西汀加镁实验Day6
+- [报告86 托莫西汀70mg+苏糖酸镁1500mg+茶苯海明25mg+舍曲林25mg](https://overspeed.wiki/report/RP086/)：主编，托莫西汀加镁实验Day7
+- [报告87 普瑞巴林+唑吡坦+金刚烷胺+右美沙芬](https://overspeed.wiki/report/RP087/)：公共场所断片
+- [报告88 右美沙芬90mg+大麻巧克力8mg](https://overspeed.wiki/report/RP088/)：美国加州吃大麻画画
+- [报告89 拉莫三嗪400mg](https://overspeed.wiki/report/RP089/)：兴奋、解离、睡觉
+- [报告90 右美沙芬2600mg](https://overspeed.wiki/report/RP090/)：确实玩挺惨的 感觉大脑已经完全融化了
+- [报告91 右美沙芬360mg+美金刚2t](https://overspeed.wiki/report/RP091/)：出现了不该出现的外幻，但免不了进医院打吊瓶
+- **[报告92 艾司唑仑20mg反复使用](https://overspeed.wiki/report/RP092/)：史上最离谱的镇静催眠药，怀疑gaba神经元变性了**
+- **[报告93 司来吉兰苯乙胺的bad trip](https://overspeed.wiki/report/RP093/)：史诗级bad trip，无任何欣快感，这直接导致报告者以后都不想尝试这个玩法了**
+- [报告94 普瑞巴林+氨茶碱+茶氨酸+酪氨酸+苯丙氨酸+金刚烷胺](https://overspeed.wiki/report/RP094/)：不好玩的氨茶碱，没药效的金刚烷胺
+- [报告95 奈福泮的奇妙外幻双人旅A](https://overspeed.wiki/report/RP095/)：内外幻觉同时出现
+- [报告96 普瑞巴林+乙醇+氯硝西泮](https://overspeed.wiki/report/RP096/)：请不要模仿 户外od 后果可能会很严重
+- [报告97 奈福泮的奇妙外幻双人旅B](https://overspeed.wiki/report/RP097/)：别人520约会，我们520一起od
+- [报告98 普瑞巴林1050mg+金刚烷胺200mg](https://overspeed.wiki/report/RP098/)：既阴暗萎靡又诡异的兴奋
+- **[报告99 白兔Bron8t+普瑞巴林1500mg+乙醇](https://overspeed.wiki/report/RP099/)：来看看od普瑞巴林的成瘾性有多强，一次上瘾**
+- [报告100 乙醇（单纯醉酒）](https://overspeed.wiki/report/RP100/)：醉酒说胡话，od不是逃离原生家庭的方法
+- [报告101 司来吉兰5mg+苯乙胺460mg+反苯环丙胺5mg+阿普唑仑0.8mg](https://overspeed.wiki/report/RP101/)：请小心使用反苯环丙胺
+- [报告102 卡马西平1500mg](https://overspeed.wiki/report/RP102/)：晕晕乎乎
+- [报告103 喹硫平400mg＋巴氯芬20mg＋唑吡坦20mg＋苯海索100mg＋金刚烷胺200mg](https://overspeed.wiki/report/RP103/)：活到现在真是奇迹
+- **[报告104 帕罗西汀谋杀案](https://overspeed.wiki/report/RP104/)：别吃这些ssri**
+- [报告105 水合氯醛8000mg](https://overspeed.wiki/report/RP105/)：这也能o？
+- [报告106 加巴喷丁+普瑞巴林+唑吡坦+佐匹克隆+右美沙芬+乙醇](https://overspeed.wiki/report/RP106/)：无事发生
+- [报告107 加巴喷丁5000mg+愈美片24t+普瑞巴林1200mg+金刚烷胺1200mg+维生素](https://overspeed.wiki/report/RP107/)：直接断片
+- [报告108 普瑞巴林450mg+愈美20t](https://overspeed.wiki/report/RP108/)：晕晕晕飘飘飘、心率加快社交增强
+- [报告109 5-HTP致幻用奥氮平+赛庚啶+劳拉西泮下机（谈及右美沙芬）](https://overspeed.wiki/report/RP109/)：不能od的5-HTP
+- **[报告110 【报告者失联】亚硝酸钠5300mg+右美沙芬4309mg+金刚烷胺3700mg](https://overspeed.wiki/report/RP110/)：所以怎样自杀干预？**
+- [报告111 麦斯卡林衍生物(应投稿者要求已经删除)](https://overspeed.wiki/report/RP111/)：致幻剂
+- [报告112 嚼碎盐酸哌甲酯缓释片（缓释不了一点）72mg+安非他酮1t+司来吉兰1t](https://overspeed.wiki/report/RP112/)：虽然真的很开心，但是会有成瘾性和戒断反应的
+- [报告113 愈美片44t+尼古丁+可乐（含咖啡因）](https://overspeed.wiki/report/RP113/)：意外的是安全结束了旅行
+## RP114-RP125
+- [报告114 托莫西汀70mg+苏糖酸镁1500mg+姜黄素500mg+维生素](https://overspeed.wiki/report/RP114/)：主编，白天三睡三醒总共8小时
+- [报告115 汉防己甲素160mg](https://overspeed.wiki/report/RP115/)：主编，很无聊的药
+- [报告116 卡马西平 400mg](https://overspeed.wiki/report/RP116/)：od这个能控梦？
+- [报告117 普瑞巴林+金刚烷胺](https://overspeed.wiki/report/RP117/)：失误癫痫发作
+- [报告118 美金刚+乙醇+唑吡坦](https://overspeed.wiki/report/RP118/)：昏昏沉沉的都不知道活了多久
+- [报告119 舍曲林1400mg](https://overspeed.wiki/report/RP119/)：标准的血清素综合征，报告者主动要求发警戒
+- [报告120 司来吉兰+苯乙胺](https://overspeed.wiki/report/RP120/)：呕吐，头疼，心率失衡bad trip
+- [报告121 金刚烷胺9800mg+地西泮5mg](https://overspeed.wiki/report/RP121/)：自杀失败
+- [报告122 右美沙芬720mg+普瑞巴林600mg+美金刚70mg](https://overspeed.wiki/report/RP122/)：疑似烂尾报告
+- [报告123 莱博雷生15mg+氯硝西泮2mg](https://overspeed.wiki/report/RP123/)：第四代安眠药真实体验
+- **[报告124 白兔84t~bad trip](https://overspeed.wiki/report/RP124/)：结果出奇难受**
+- [报告125 右美沙芬+普瑞巴林](https://overspeed.wiki/report/RP125/)：不该出现的外幻再次出现
+## RP126-RP147
+- [报告126 钩藤提取物/托莫西汀210mg+姜黄素+茶苯海明+舍曲林+普萘洛尔+螺内酯+长春西汀（两次）](https://overspeed.wiki/report/RP126/)：主编，第一次真正超过医学剂量使用托莫西汀，有效但不是预想的解离
+- **[报告127 拉莫三嗪1100mg](https://overspeed.wiki/report/RP127/)：呕吐9小时**
+- [报告128 普瑞巴林450mg/普瑞巴林+愈美片/加巴喷丁+普瑞巴林+尼古丁（三次）](https://overspeed.wiki/report/RP128/)：不要o了 好好生活
+- [报告129 麦斯卡林衍生物+美托洛尔50mg+布洛芬400mg](https://overspeed.wiki/report/RP129/)：补药学我啊，建议真的想自救的精神病就把这个当成吃一次管用一个多月的抗抑郁药就行
+- **[报告130 普瑞巴林1200mg+金刚烷胺600mg+西地那非50mg+麻辣香锅](https://overspeed.wiki/report/RP130/)：躁郁得很厉害，难受…吃下机药了**
+- [报告131 美金刚+唑吡坦+复方甘草片](https://overspeed.wiki/report/RP131/)：内外幻觉切换
+- [报告132 文拉法辛225mg+安非他酮750mg](https://overspeed.wiki/report/RP132/)：情绪激越心跳加快
+- **[报告133 唑吡坦5mg+茶氨酸+氟伏沙明](https://overspeed.wiki/report/RP133/)：医学剂量致幻的唑吡坦**
+- [报告134 拉莫三嗪550mg和扎来普隆25mg](https://overspeed.wiki/report/RP134/)：报告者认为解离欣快是心理作用而非拉莫三嗪
+- [报告135 唑吡坦20mg+美金刚60mg+乙醇+奥氮平+氯硝西泮](https://overspeed.wiki/report/RP135/)：解离加致幻
+- [报告136 愈美片48t+乙醇+用唑吡坦5mg下机](https://overspeed.wiki/report/RP136/)：此篇报告给想尝试右美沙芬或正在服用右美沙芬的人参考
+- [报告137 右美沙芬540mg+乙醇+N2O/普瑞巴林600mg（两次）](https://overspeed.wiki/report/RP137/)：单用8t普瑞也呼吸抑制？
+- [报告138 右美沙芬180mg+普瑞巴林900mg+唑吡坦10mg](https://overspeed.wiki/report/RP138/)：别o了，天天o都成瘾了
+- [报告139 乙醇+劳拉西泮3.5mg+唑吡坦30mg+右美沙芬210mg+普瑞巴林750mg](/report/RP139)：镇静解离呼吸抑制内幻断片
+- [报告140 迷幻蘑菇750mg](/report/RP140)：有点荒唐的经历，强烈建议大家不要学我，第一次一定要小剂量在熟悉安全的地方进行
+- [报告141 奈福泮500mg](/report/RP141)：嗯？怎么没啥药效w
+- [报告142 愈美24t](/report/RP142)：观察人员全程记录服药人员发癫过程
+- [报告143 900mg普瑞巴林＋18mg专注达](/report/RP143)：饮酒、听歌、嗑药
+- [报告144 普瑞巴林300mg](/report/RP144)：晕!晕!快乐!
+- [报告145 普瑞巴林药粉525mg](/report/RP145)：普瑞的速效使用方法
+- [报告146 普瑞巴林300mg头晕](/report/RP146)：低剂量普瑞巴林有药效的又一例证
+- **[报告147 司来吉兰+苯乙胺+安非他酮](/report/RP147)：高血压危象一级，差点脑溢血了**
+## RP148-RP189
+- [报告148 主编の用药和睡眠记录（2024.9.11-9.30）](/report/RP148)：就当是碎碎念了，但还是想总结一些个人用药经验仅供读者们参考
+- [报告149 金刚烷胺300mg+美金刚4t](/report/RP149)：呼吸抑制，反复4次进入相同梦境
+- [报告150 1,4-丁二醇3500mg](/report/RP150)：不建议使用
+- [报告151 金刚烷胺600mg](/report/RP151)：有点分不清楚是梦还是现实
+- [报告152 右美沙芬1320mg](/report/RP152)：总之是濒死
+- [报告153 愈美片24t+普瑞巴林1200mg+苯海拉明375mg](/report/RP153)
+- [报告154 苯海拉明375mg](/report/RP154)：珍爱生命 不要od任何抗胆碱药物！！！
+- **[报告155 哌甲酯](/report/RP155)：神秘人物，吃了盐酸哌甲酯后，认知能力没有得到提高**
+- [报告156 劳拉西泮+阿普唑仑+右美沙芬+普瑞巴林+乙醇](/report/RP156)：没意思再也不o苯二氮䓬类
+- [报告157 白兔Bron 38-40t](/report/RP157)：bad trip我恨白兔
+- [报告158 文拉法辛+镁+乙醇+茶氨酸+唑吡坦+艾司唑仑](/report/RP158)：吃药放血
+- [报告159 低浓度N2O 350mL](/report/RP159)：强制微笑表情无法将脸部放松下来
+- [报告160 哌甲酯+米氮平+莫达非尼+舍曲林+司来吉兰](/report/RP160)：深刻的性格改变
+- [报告161 迷幻蘑菇1000mg](/report/RP161)：失眠改善，情绪改善，但遗传性耳鸣恶化
+- [报告162 奈福泮360mg](/report/RP162)：总之是bad trip就是了
+- [报告163 普瑞巴林300mg+巴氯芬10mg](/report/RP163)：躁狂，看什么都想笑，非常有生产力，变得外向，简直像换了个人
+- [报告164 普瑞巴林600mg](/report/RP164)：高剂量普瑞巴林具有可怕的成瘾潜力和令人难以忍受的戒断症状
+- [报告165 文拉法辛+安非他酮+普瑞巴林+劳拉西泮+氯硝西泮+右美沙芬+地西泮+阿普唑仑+哌甲酯](/report/RP165)：药物大杂烩，服药一段期间内出现自杀倾向，哭了一个小时
+- [报告166 劳拉西泮+乙醇+氯硝西泮+普瑞巴林](/report/RP166)：疯狂吵架 邀请网友来家睡
+- [报告167 司来吉兰+苯乙胺+安非他酮](/report/RP167)：没法形容具体感觉 比描述丰富很多
+- [报告168 酚麻美敏片23t](/report/RP168)：和喝酒一个效果（此报告请勿模仿！）
+- [报告169 乙醚](/report/RP169)：中毒昏迷一小时，气管插管生命支持（请勿模仿！）
+- **[报告170 巴氯芬150mg](/report/RP170)：情绪崩溃后没注意剂量 严重谵妄**
+- [报告171 右美沙芬150mg/75mg（两次）](/report/RP171)：5t干出幻觉那种挤压感巨真实
+- [报告172 普瑞巴林1800mg+金刚烷胺1000mg](/report/RP172)：送医抢救，没有记忆
+- [报告173 普瑞巴林300mg](/report/RP173)：剧烈呕吐 眩晕
+- [报告174 普瑞巴林600mg+乙醇](/report/RP174)：奇妙体验，眼睛肿的好大
+- [报告175 600mg普瑞巴林+10mg巴氯芬+4g茶氨酸+17t愈美+2t长春西汀](/report/RP175)：愈美+坐车晕车导致了呕吐
+- **[报告176 愈美片0.75t+（速释）安非他酮25mg](/report/RP176)：对于Auvelity配方的尝试，等剂量下安全性基本确认，有效性有待严格验证**
+- **[报告177 【代号为coco的不明药物】1t+尼古丁](/report/RP177)：1粒即血清素综合征入院** *（主编：这是什么One pill can kill？）*
+- [报告178 右美沙芬1200mg（胶囊800mg+嚼碎400mg）+咖啡因](/report/RP178)：这是活着的时候最接近死亡的感觉了吧
+- [报告179 速释喹硫平600mg+氟伏沙明100mg](/report/RP179)：被送医了
+- [报告180 右美沙芬180mg+氯硝西泮3mg+专注达36mg](/report/RP180)
+- [报告181 普瑞巴林750mg](/report/RP181)：本身有解离症服用解离剂
+- [报告182 喹硫平400mg+普瑞巴林600mg+阿普唑仑6.4mg](/report/RP182)：心率超正常心率3倍
+- [报告183 去痛片18t](/report/RP183)：根本不是娱乐性药物 n
+- [报告184 愈美+右美沙芬+克拉霉素+白兔Bron+零度可乐](/report/RP184)：心率加快、头晕头胀、呼吸不畅就医，做事前不思考导致的结果
+- [报告185 愈美+普瑞巴林+长春西汀+喹硫平+可乐定](/report/RP185)：o右美和pr吐血了 好像耐药性减少了
+- [报告186 30t美金刚的精神分裂并反制](/report/RP186)：罗通定杀死了精分！！
+- [报告187 17t美金刚](/report/RP187)：地狱般的美金刚
+- [报告188 0耐受下佐匹克隆让我想和她结婚](/report/RP188)
+- [报告189 硫酸阿托品口服15mg](/report/RP189)：口服阿托品注射液
+## RP190-RP219
+- [报告190 口服（甘氨酸镁500mg+乌苯美司30mg+速释安非他酮75mg）+鼻腔摄入（反苯环丙胺20mg+ISRIB+速释安非他酮100mg）](/report/RP190)：主编，试图逆转嗜睡期、进入兴奋期，并未成功
+- [报告191 丙戊酸导致od右美沙芬和普瑞巴林失效](/report/RP191)：丙戊酸停药数月后，od仍然无效
+- [报告192 可乐定+苯乙胺+司来吉兰+尼古丁](/report/RP192)：有一次血压给我干200去了
+- [报告193 普瑞巴林3000mg](/report/RP193)：半衰期非常不舒服，过了15个小时稍微好了一点
+- [报告194 舒肝解郁胶囊2t+氟伏沙明](/report/RP194)：反驳一下舒肝解郁淀粉片论
+- [报告195 普瑞巴林+加巴喷丁](/report/RP195)：最后被送到医院了
+- **[报告196 普瑞巴林1800mg+愈美24t](/report/RP196)：真的是非常非常糟糕的badtrip，空腹一整天吃了24tpr和24愈美片，送进医院洗胃**
+- [报告197 司来吉兰5mg+麦斯卡林衍生物+尼古丁](/report/RP197)：疑似诱发ADHD，ADHD患者请一定一定不要尝试此种药物联用
+- [报告198 安非他酮+托莫西汀+伊伐布雷定](/report/RP198)：有极其明显的疑似人格解体的症状
+- [报告199 奈福泮1000mg](/report/RP199)：闹鬼药T^T 珍爱生命请吃益智药
+- **[报告200 米安色林60mg](/report/RP200)：来看Wiki主乐子**
+- [报告201 普瑞巴林900mg+劳拉西泮1mg+苯巴比妥30mg+东莨菪碱0.2mg](/report/RP201)：强烈而持续的内幻，硫糖铝护胃立大功
+- **[报告202 普瑞巴林1800mg+硫糖铝1000mg](/report/RP202)：验证硫糖铝的护胃功效成功！**
+- [报告203 劳拉西泮0.5mg](/report/RP203)：报告202的后续
+- [报告204 MK-801 1.4mg](/report/RP204)：有潜力的纯解离剂
+- [报告205 奈福泮400mg](/report/RP205)：完全没有感觉到一点欣快感完全没有，纯badtrip
+- [报告206 司来吉兰+苯乙胺](/report/RP206)：药效时间很短
+- [报告207 白兔Bron75t+唑吡坦](/report/RP207)：幸福的要死掉了，但是有地震debuff吓得我要从楼上跳下去
+- [报告208 金刚烷胺800mg+加巴喷丁600mg+氯硝西泮2mg+咖啡因](/report/rp208)：非常欣快的解离，有一点点幻觉
+- [报告209 金刚烷胺900mg](/report/RP209) ：我草，我在长江上睡觉
+- [报告210 金刚烷胺800mg+硫糖铝1000mg](/report/RP210)：非常舒适的内幻睡眠体验
+- [报告211 奥氮平5mg+氯硝西泮2mg+金刚烷胺400mg](/report/RP211)：非常温润且有不错的梦境的睡眠
+- [报告212 用N2O戒断大麻瘾之后N2O成瘾](/report/RP212)：一氧化二氮几乎杀死了我
+- [报告213 普瑞巴林+唑吡坦+乙醇+金刚烷胺+文拉法辛+曲马多+加巴喷丁](/report/RP213)：大杂烩
+- [报告214 哮喘片60t+普瑞巴林2700mg](/report/RP214)：因为了解到哮喘片然后信息比较少就想着记录一下供人参考
+- [报告215 美金刚55mg](/report/RP215)：不老实就吃美金刚 吃了就老实了
+- [报告216 迷幻蘑菇1000mg](/report/RP216)：理解一切
+- [报告217 右美沙芬55mg+伪麻黄碱270mg+马来酸氯苯那敏10mg、对乙酰氨基酚500mg、小檗碱100mg、硫糖铝1000mg](/report/RP217)：第一次尝试右美沙芬，相当于300mg~400mg的普瑞巴林
+- [报告218 三崎1000000000mg+](/report/RP218)
+- **[报告219 右美沙芬180mg+氯苯那敏36mg+伪麻黄碱540mg+氯硝西泮2mg+硫糖铝1000mg](/report/RP219)：[推荐]右美沙芬与氯苯那敏或伪麻黄碱的复方制剂可能通过竞争CYP2D6酶影响右美沙芬的代谢，导致其解离效果减弱而抗抑郁效果增强，因此在使用这些复方制剂时应谨慎考虑其相互作用和药效变化。**
+## RP220-
+- [报告220 托莫西汀100mg+螺内酯40mg+乙醇+茶叶+能量饮料](/report/RP220)：主编，换品牌测试托莫西汀，仍无解离
